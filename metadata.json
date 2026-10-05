@@ -1,0 +1,6 @@
+{
+  "name": "Veluto Artisanal Creamery",
+  "description": "Bespoke handcrafted gelato and ice cream shop with custom scoop builder, live order tracking, loyalty rewards, and admin analytics.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
